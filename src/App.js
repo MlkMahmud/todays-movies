@@ -5,7 +5,7 @@ const App = () => (
     <h1>
       Currently working on the application UI. 
     </h1>
-    <p>In the mean time, check out the GitHub Repositories for the
+    <p>In the meantime, check out the GitHub Repositories for the
       {' '}
       <a href="https://github.com/MlkMahmud/todays-movies-scraper" target="__blank">
         web scraper
